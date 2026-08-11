@@ -1,0 +1,24 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos locais e segredos
+.env
+.env.*
+!.env.example
+*.local
+
+# Dependências e saídas, caso sejam usadas futuramente
+node_modules/
+dist/
+coverage/
+
+# Logs
+*.log
