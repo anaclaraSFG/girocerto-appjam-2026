@@ -7,7 +7,6 @@ Este arquivo evita que escolhas importantes se percam durante o trabalho em grup
 | Decisão | Recomendação atual | Quem aprova | Estado |
 |---|---|---|---|
 | Revisão do conceito pelos demais integrantes | Líder de perecíveis e prevenção de perdas como usuário principal | Grupo | Pendente |
-| Repositório e publicação | GitHub e GitHub Pages | Responsável do grupo | Pendente |
 
 ## Decisões aprovadas
 
@@ -30,6 +29,7 @@ Este arquivo evita que escolhas importantes se percam durante o trabalho em grup
 | 12/08/2026 | Confirmar canal e prazo da entrega | Usuária | Projeto deve ser enviado pelo Google Forms até 12/08/2026 às 23h59; o envio final continua dependendo de autorização explícita |
 | 12/08/2026 | Confirmar tecnologia e MoSCoW do MVP | Usuária | A versão de entrega usa HTML, CSS e JavaScript sem backend; o escopo permanece priorizado por Must, Should, Could e Won't for now |
 | 12/08/2026 | Renomear e publicar o repositório | Usuária | O repositório passa a se chamar `anaclaraSFG/girocerto-appjam-2026`; commit na `main` e publicação no GitHub Pages foram autorizados |
+| 12/08/2026 | Concluir a publicação do GiroCerto | Usuária | Repositório público e GitHub Pages verificados; o envio do Google Forms continua dependendo de uma autorização final separada |
 
 ## Modelo para novas decisões
 

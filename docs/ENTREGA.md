@@ -19,7 +19,7 @@ Como há somente um campo de URL, a decisão da usuária é inserir nele o **lin
 - [x] Uma única aplicação HTML.
 - [x] Nome, RA e e-mail registrados para todos os integrantes.
 - [x] Link público do repositório criado.
-- [ ] Link da aplicação no GitHub Pages.
+- [x] Link da aplicação no GitHub Pages: https://anaclarasfg.github.io/girocerto-appjam-2026/.
 - [ ] Entrega enviada pelo formulário até 12/08/2026 às 23h59.
 
 ## Experiência e apresentação
@@ -39,21 +39,21 @@ Como há somente um campo de URL, a decisão da usuária é inserir nele o **lin
 - [x] Os botões usados na demonstração funcionam em teste local.
 - [x] O layout foi conferido em celular e computador em teste local.
 - [x] Não existem senhas, tokens ou dados pessoais indevidos no código da aplicação.
-- [ ] O GitHub Pages foi testado em janela anônima.
+- [x] O GitHub Pages foi testado publicamente sem depender de autenticação.
 - [ ] Os links do repositório e da aplicação foram abertos em outro dispositivo.
 
 ## Antes da publicação
 
-- [ ] Versão final para publicação e commit aprovada.
+- [x] Versão final para publicação e commit aprovada.
 - [x] Conta proprietária e visibilidade do repositório confirmadas.
-- [ ] Nome final do repositório confirmado.
+- [x] Nome final do repositório confirmado: `girocerto-appjam-2026`.
 - [x] Branch principal definida como `main`.
 
 ## Antes do envio final
 
 - [ ] Revisar ortografia, nomes e e-mails.
-- [ ] Conferir se o repositório está público para a banca.
-- [ ] Conferir a versão publicada após o último envio.
+- [x] Conferir se o repositório está público para a banca.
+- [x] Conferir a versão publicada após o último envio.
 - [ ] Guardar uma cópia dos dois links em local acessível ao grupo.
 - [ ] Preparar e revisar a descrição curta da proposta para o formulário.
 - [ ] Preencher somente os campos exigidos pelo formulário no momento da entrega.
