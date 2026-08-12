@@ -12,7 +12,8 @@ Demonstrar, em três páginas, uma solução simples e inovadora para um problem
 - Links do repositório e da aplicação.
 - Nome e e-mail legíveis de cada integrante.
 - Equipe de até cinco participantes.
-- Entrega final informada no material: quarta-feira, até 23h59. A data exata precisa ser confirmada.
+- Entrega final confirmada para quarta-feira, **12/08/2026, até 23h59**, por Google Forms.
+- O formulário pede uma breve proposta, uma URL do trabalho e nome/e-mail dos integrantes.
 
 ## Pontuação
 
@@ -27,9 +28,9 @@ Demonstrar, em três páginas, uma solução simples e inovadora para um problem
 
 Os primeiros critérios de desempate são problema do setor, aderência aos temas, identidade visual e qualidade técnica.
 
-## Recomendação principal: Jam (nome provisório)
+## Nome definitivo: GiroCerto
 
-O nome definitivo será escolhido depois. “Jam” serve apenas para identificar o projeto durante a definição do conceito e do protótipo.
+GiroCerto comunica o principal valor do produto: colocar cada item na ação certa e no momento certo para preservar margem e evitar desperdício.
 
 ### Problema
 
@@ -62,13 +63,15 @@ Um assistente visual que organiza os produtos por urgência, sugere uma ação e
 ### Must have — sem isso não há entrega
 
 - Exatamente três páginas dentro de uma única página HTML.
-- Navegação funcionando entre Visão do dia, Prioridades e Plano de ação.
+- Navegação funcionando entre Hoje, Prioridades e Decisão.
 - Uma visão do dia com dados fictícios plausíveis.
 - Pelo menos três produtos na lista de prioridades.
 - Um fluxo completo: selecionar o produto, simular a ação e mostrar o impacto.
 - Botões principais funcionando e nenhum erro visível durante a demonstração.
 - Layout utilizável em celular e computador.
+- Uso eficiente do espaço em telas largas e identidade cromática coerente para apresentação.
 - Explicação curta do problema, da solução, do público e dos temas estratégicos.
+- Uma evidência real do setor com fonte, sem misturar benchmark e resultado do protótipo.
 - Identificação dos integrantes com nome e e-mail.
 - Repositório organizado e versão final publicada no GitHub Pages.
 - Links do repositório e da aplicação verificados antes da entrega.
@@ -79,8 +82,8 @@ Um assistente visual que organiza os produtos por urgência, sugere uma ação e
 - Comparação visual de perda potencial antes e depois da ação.
 - Ajuste do percentual de desconto na simulação.
 - Estados visuais claros para produto crítico, em atenção e controlado.
-- Identidade visual consistente com nome, cores, tipografia e componentes.
 - Roteiro de apresentação de 60 a 90 segundos.
+- Instrução operacional curta para o responsável pela ação.
 
 ### Could have — somente se houver tempo seguro
 
@@ -90,6 +93,7 @@ Um assistente visual que organiza os produtos por urgência, sugere uma ação e
 - Pequeno gráfico de tendência semanal.
 - Modo escuro ou personalização visual.
 - Mensagem de confirmação mais elaborada após a ação.
+- Indicador de CO₂ com fator de emissão e premissas documentadas.
 
 ### Won't have for now — fora desta versão
 
@@ -102,6 +106,7 @@ Um assistente visual que organiza os produtos por urgência, sugere uma ação e
 - Relatórios avançados.
 - Aplicativo móvel nativo.
 - Processamento de pagamentos ou dados pessoais de clientes.
+- Doação, aprovação, tarefa ou benefício fiscal executados de verdade.
 
 Um item Should ou Could nunca deve atrasar um Must. Mudanças de categoria precisam ser aprovadas e registradas.
 
@@ -129,7 +134,7 @@ Em grupos menores, produto pode acumular apresentação; UX pode acumular interf
 
 ### Primeiro checkpoint
 
-1. Aprovar problema, público e nome provisório.
+1. Confirmar problema, público e aplicação do nome GiroCerto.
 2. Aprovar as três páginas e o fluxo de demonstração.
 3. Revisar e aprovar a classificação MoSCoW.
 4. Montar o esqueleto navegável.
@@ -147,8 +152,6 @@ Em grupos menores, produto pode acumular apresentação; UX pode acumular interf
 
 ## Perguntas ainda abertas
 
-- Qual é a data e o formato exatos da entrega de amanhã?
-- Quantas pessoas estão no grupo e quais são seus nomes/e-mails?
-- O grupo aprova o problema de perdas por vencimento ou prefere uma das alternativas?
-- Qual é o nível de experiência do grupo com HTML, CSS, JavaScript, GitHub e design?
-- Já existe um repositório ou uma conta do GitHub definida para publicar?
+- O repositório será renomeado para `girocerto-appjam-2026`?
+- Quais papéis cada integrante assumirá na finalização e apresentação?
+- Quais itens Should ainda cabem com segurança antes da publicação?

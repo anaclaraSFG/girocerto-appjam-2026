@@ -4,7 +4,7 @@
 
 Aprovada pela usuária em 11/08/2026.
 
-O nome “Jam” continua provisório. Esta direção descreve a experiência visual, não a marca definitiva.
+O nome definitivo do produto é **GiroCerto**. A direção visual reforça a ideia de movimento, prioridade e transformação do risco em oportunidade.
 
 ## Conceito visual
 
@@ -22,17 +22,19 @@ O início da experiência usa tons quentes para comunicar urgência. Conforme o 
 - Visualmente marcante durante uma apresentação curta.
 - Mais narrativa do que painel administrativo.
 
-## Paleta provisória
+## Paleta provisória — revisão 2026
 
 | Papel | Cor | Uso sugerido |
 |---|---|---|
-| Base clara | `#F7F5EF` | Fundo principal acolhedor |
-| Texto principal | `#17211D` | Títulos, números e conteúdo importante |
-| Risco | `#C7472F` | Perda potencial e urgência crítica |
-| Atenção | `#B87800` | Prazo curto e oportunidade que exige ação |
-| Transformação | `#0D6770` | Inteligência, transição e controles |
-| Recuperação | `#18794E` | Valor recuperado e desperdício evitado |
-| Superfície | `#FFFFFF` | Cartões e áreas de leitura |
+| Base clara | `#F5F3EE` | Off-white sereno, inspirado em Cloud Dancer, para reduzir ruído visual |
+| Texto e tecnologia | `#351E28` | Plum Noir em títulos, navegação e áreas de inteligência |
+| Risco | `#FF5C34` | Persimmon para perda potencial e urgência crítica |
+| Oportunidade | `#E9F056` | Wasabi para destacar transformação, recomendação e ação positiva |
+| Sustentabilidade | `#AEB8A0` | Jade como apoio para alimento preservado e impacto ambiental |
+| Informação | `#D7EFFF` | Cool Blue em sinais informativos e planos de fundo discretos |
+| Superfície | `#FFFEFA` | Cartões e áreas de leitura |
+
+A combinação Plum Noir + Wasabi é o traço distintivo da interface. Persimmon aparece somente nos riscos e Jade funciona como apoio, evitando o visual genérico de “aplicativo sustentável todo verde”. A revisão usa como referência a Pinterest Palette 2026 e a busca por cores saturadas e identidade local apresentada nas tendências criativas da Adobe para 2026.
 
 As cores devem ser verificadas em contexto para garantir contraste. Vermelho e verde não podem ser os únicos meios de transmitir estado; usar também textos, ícones e rótulos.
 
@@ -92,6 +94,7 @@ Esse elemento deve ser maior e mais marcante que gráficos, menus ou listas.
 - Aparência de ERP ou planilha convencional.
 - Excesso de gráficos pequenos.
 - Fundo completamente verde desde o início, pois elimina a sensação de transformação.
+- Roxo, verde ou laranja usados sem hierarquia; cada cor deve manter seu papel semântico.
 - Visual futurista genérico com neon e muitos efeitos.
 - Ícones sem texto ou significados ambíguos.
 - Fotografias decorativas que disputem atenção com os números.

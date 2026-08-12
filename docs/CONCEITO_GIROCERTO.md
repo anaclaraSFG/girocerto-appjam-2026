@@ -1,8 +1,8 @@
-# Conceito do Jam — proposta para aprovação
+# Conceito do GiroCerto
 
 ## Tese do projeto
 
-O Jam transforma produtos próximos do vencimento, normalmente vistos apenas como perda, em oportunidades de decisão com impacto financeiro e ambiental mensurável.
+O GiroCerto transforma produtos próximos do vencimento, normalmente vistos apenas como perda, em oportunidades de decisão com impacto financeiro e ambiental mensurável.
 
 ## Problema real
 
@@ -11,6 +11,16 @@ Líderes de perecíveis e prevenção de perdas precisam agir rapidamente sobre 
 O problema não é apenas “saber o que está vencendo”. O problema de maior valor é:
 
 > decidir, entre muitos itens e pouco tempo, qual ação tomar primeiro e qual resultado esperar.
+
+### Evidências que sustentam o problema
+
+- A ABRAS registrou perda média de 1,82% do faturamento em 2025.
+- A quebra operacional representou 62% das perdas.
+- O peso do prazo de validade dentro da quebra subiu de 37% para 41%.
+- Erros de inventário concentraram 47% das ocorrências administrativas.
+- Estudo com operações brasileiras aponta controle de estoque ineficaz, manuseio e treinamento entre as causas, e destaca previsão, gestão dedicada, doação e redução de preço entre as práticas de mitigação.
+
+Detalhes, limitações e fontes estão em `docs/PESQUISA_E_BENCHMARKS.md`.
 
 ## Usuário principal
 
@@ -26,7 +36,7 @@ Gerente geral da loja, que acompanha os resultados financeiros, operacionais e a
 
 ## Momento de encantamento
 
-O principal momento da experiência acontece quando o usuário abre um item em risco e o Jam:
+O principal momento da experiência acontece quando o usuário abre um item em risco e o GiroCerto:
 
 1. apresenta uma ação recomendada;
 2. explica por que aquela ação foi sugerida;
@@ -61,14 +71,16 @@ Não apresentar IA Generativa como tema separado nem afirmar que existe integra�
 
 ## Diferencial competitivo
 
-Painéis tradicionais mostram números e listas. O Jam deve mostrar uma decisão pronta e seu efeito.
+Painéis tradicionais mostram números e listas. O GiroCerto deve mostrar uma decisão pronta e seu efeito.
 
 O diferencial não é “ter mais dados”, mas:
 
 - transformar prioridade em uma narrativa visual;
 - unir impacto financeiro e ambiental na mesma decisão;
 - explicar a recomendação em linguagem simples;
-- permitir que o usuário veja o antes e o depois.
+- permitir que o usuário veja o antes e o depois;
+- converter a decisão em orientação operacional para quem executará a ação;
+- combinar quatro possíveis destinos futuros: desconto, sacola oferta, transferência e doação rastreada.
 
 ## Estrutura das três páginas
 
@@ -116,7 +128,7 @@ Elementos:
 ## Narrativa da demonstração
 
 1. “Existe valor sendo perdido hoje e o líder de perecíveis precisa agir rápido.”
-2. “O Jam organiza as oportunidades e mostra onde agir primeiro.”
+2. “O GiroCerto organiza as oportunidades e mostra onde agir primeiro.”
 3. “Ao abrir o item, o sistema recomenda uma decisão e mostra o impacto.”
 4. “Assim, tecnologia deixa de apenas informar e passa a transformar a operação.”
 
@@ -127,7 +139,7 @@ Elementos:
 | Problema do setor — 30 | Perda financeira, desperdício e demora para decidir |
 | Temas estratégicos — 20 | IA aplicada ao varejo conectada a Analytics, indicadores, Supply Chain e ESG |
 | UX — 15 | História linear em três passos: entender, priorizar e decidir |
-| Identidade — 10 | Interface ligada ao universo de alimentos, varejo e transformação; direção final ainda pendente |
+| Identidade — 10 | GiroCerto com direção “Transformação” e paleta 2026 aplicada de forma consistente |
 | Criatividade — 15 | Decisão explicada e comparação de impacto, não apenas um dashboard |
 | Qualidade técnica — 10 | Três páginas em um HTML, navegação confiável, sem erros e publicação no GitHub Pages |
 
@@ -139,6 +151,8 @@ Elementos:
 - História completa distribuída nas três páginas.
 - Uma recomendação visualmente convincente.
 - Explicação simples do motivo da recomendação.
+- Uma evidência real do setor com fonte identificada.
+- Distinção clara entre dados de mercado, benchmarks de terceiros e números demonstrativos.
 - Comparação de antes e depois.
 - Impacto financeiro e ambiental.
 - Navegação e ações principais funcionando.
@@ -152,6 +166,7 @@ Elementos:
 - Estados claros de urgência.
 - Transição coerente entre risco e oportunidade.
 - Roteiro de apresentação de 60 a 90 segundos.
+- Instrução operacional curta para o responsável pela execução.
 
 ### Could have
 
@@ -159,6 +174,7 @@ Elementos:
 - Celebração visual discreta ao confirmar a ação.
 - Indicador de impacto mensal acumulado.
 - Mais de uma alternativa de ação por produto.
+- Indicador de CO₂ somente após documentar fator de emissão e premissas.
 
 ### Won't have for now
 
@@ -168,6 +184,7 @@ Elementos:
 - Cadastro completo de produtos.
 - Relatórios administrativos complexos.
 - Aplicativo móvel nativo.
+- Doação, tarefa, aprovação ou cálculo fiscal executados de verdade.
 
 ## Estado das decisões
 

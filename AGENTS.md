@@ -5,8 +5,12 @@
 - Ajudar o grupo a conceber, prototipar e entregar um microaplicativo para a Expoagas/AppJam.
 - Priorizar uma demonstração curta, funcional e convincente; não tentar construir um produto completo.
 - Usar `docs/BRIEFING_E_PLANO.md` como fonte resumida dos requisitos da competição.
-- Usar `docs/CONCEITO_JAM.md` como proposta atual de produto, mantendo suas decisões pendentes como provisórias.
+- Usar `docs/CONCEITO_GIROCERTO.md` como proposta atual de produto.
+- Usar `docs/PESQUISA_E_BENCHMARKS.md` para fatos, fontes e limitações de mercado.
+- Usar `docs/ESPECIFICACAO_DECISAO.md` para regras, cálculos e dados demonstrativos.
 - Registrar escolhas e aprovações em `docs/DECISOES.md`.
+
+Ao citar números, distinguir sempre: dado setorial validado, resultado divulgado por terceiro e simulação do protótipo. Não apresentar benefício fiscal, resultado ambiental ou desempenho comercial como garantido.
 
 ## Forma de colaboração com a usuária
 
@@ -40,7 +44,7 @@ Leitura, análise, documentação, pequenos protótipos locais, testes e correç
 - Manter o repositório no GitHub organizado e pronto para avaliação.
 - Informar o link do repositório, o link da aplicação e a identificação legível dos integrantes, com nome e e-mail.
 - Equipe com no máximo cinco participantes.
-- Confirmar com a usuária a data exata do prazo final; o material informa quarta-feira às 23h59.
+- Entrega final confirmada para quarta-feira, 12/08/2026, até 23h59, pelo Google Forms indicado em `docs/ENTREGA.md`.
 - Garantir que o protótipo não dependa de backend ou API externa para funcionar na apresentação, salvo aprovação explícita.
 
 ## Prioridade guiada pela avaliação
@@ -56,23 +60,22 @@ Trabalhar nesta ordem:
 
 Em caso de conflito, preservar primeiro a clareza do problema e o fluxo funcional. Evitar efeitos visuais ou recursos que aumentem o risco sem melhorar a demonstração.
 
-## Escopo recomendado enquanto aguarda aprovação
+## Escopo aprovado
 
-- Nome de trabalho: **Jam**. É provisório e não deve orientar a identidade final.
-- Conceito provisório: um assistente de decisão para reduzir perdas de produtos próximos do vencimento em supermercados.
+- Nome definitivo aprovado: **GiroCerto**.
+- Conceito aprovado: um assistente de decisão para reduzir perdas de produtos próximos do vencimento em supermercados.
 - Público principal: líder ou encarregado de perecíveis e prevenção de perdas.
 - Público secundário: gerente geral da loja, interessado no resultado consolidado.
 - Proposta de valor: indicar os itens mais urgentes e sugerir uma ação simples — remarcação, oferta, reposicionamento ou doação — mostrando impacto estimado.
 - Tema principal: IA aplicada ao varejo.
 - Temas complementares: Analytics, Gestão por Indicadores, Supply Chain e ESG.
 - As sugestões podem ser simuladas com regras locais e dados fictícios; não alegar que há IA real se não houver integração de modelo.
-- Páginas propostas:
+- Páginas aprovadas:
   1. **Visão do dia:** perdas evitáveis, itens críticos e impacto estimado.
   2. **Prioridades:** lista filtrável de produtos próximos do vencimento.
   3. **Plano de ação:** simulação da recomendação e confirmação da ação.
 - Fluxo de demonstração: identificar um risco na visão do dia, abrir o item prioritário, simular uma ação e mostrar o impacto.
-- Não implementar esta ideia como decisão final até a usuária e o grupo aprovarem.
-- Não propor nem fixar um nome definitivo até a usuária solicitar a etapa de naming.
+- Não trocar o nome definitivo sem nova aprovação da usuária e do grupo.
 
 ## Método de desenvolvimento
 
@@ -81,7 +84,7 @@ Em caso de conflito, preservar primeiro a clareza do problema e o fluxo funciona
 3. **Protótipo inicial:** criar navegação entre as três telas e completar primeiro o fluxo central com dados fictícios.
 4. **Validação:** conferir cada critério da banca, uso em celular e computador, textos, estados vazios e erros visíveis.
 5. **Polimento:** identidade visual, apresentação, roteiro de demonstração e revisão do código.
-6. **Entrega:** somente após aprovação, publicar e conferir links, integrantes e horário.
+6. **Entrega:** somente após aprovação, publicar, conferir links e integrantes e preencher o Google Forms; nunca pressionar “Enviar” sem autorização final da usuária.
 
 ## Priorização obrigatória com MoSCoW
 

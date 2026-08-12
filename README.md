@@ -1,12 +1,16 @@
-# Jam — AppJam Expoagas 2026
+# GiroCerto — AppJam Expoagas 2026
 
-> Nome provisório do projeto. A identidade final será definida posteriormente.
+> Decisão certa, no tempo certo, para transformar perdas em oportunidades.
 
 Microaplicativo criado para a AppJam UniRitter/Expoagas com o objetivo de demonstrar como a tecnologia pode transformar desafios reais do varejo supermercadista.
 
+## Demonstração
+
+[Acessar o GiroCerto](https://anaclarasfg.github.io/girocerto-appjam-2026/)
+
 ## Conceito atual
 
-O Jam ajuda líderes de perecíveis e prevenção de perdas a transformar produtos próximos do vencimento em decisões claras, apresentando uma recomendação e o impacto financeiro e ambiental estimado. O gerente geral acompanha o resultado consolidado.
+O GiroCerto ajuda líderes de perecíveis e prevenção de perdas a transformar produtos próximos do vencimento em decisões claras, apresentando uma recomendação e o impacto financeiro e ambiental estimado. O gerente geral acompanha o resultado consolidado.
 
 ### Promessa
 
@@ -35,49 +39,30 @@ O Jam ajuda líderes de perecíveis e prevenção de perdas a transformar produt
 - Repositório e aplicação acessíveis por link.
 - Identificação legível dos integrantes com nome e e-mail.
 - Equipe de até cinco participantes.
-- Entrega final até quarta-feira às 23h59, com data exata ainda a confirmar.
+- Entrega final pelo Google Forms até **12/08/2026 às 23h59**.
 
 ## Equipe
 
-| Integrante | RA | E-mail | Papel |
-|---|---|---|---|
-| Ana Clara S. F. Gomes | 1292416927 | anaclaragomes.job@gmail.com | A definir |
-| Iago F. Tubiana | 12924110288 | iagoftubiana@gmail.com | A definir |
-| João Vitor Rosiak | 1292417550 | contato.rosiak@gmail.com | A definir |
-| Mariana F. Hammel | 12924113001 | hammel2006@gmail.com | A definir |
+Os dados da equipe ficam registrados no repositório e não aparecem na interface pública do microaplicativo.
 
-## Situação do projeto
-
-- [x] Briefing e critérios organizados
-- [x] Método MoSCoW adotado
-- [x] Conceito inicial documentado
-- [x] Equipe inicial registrada
-- [x] Conceito, público e momento de encantamento aprovados pela usuária
-- [x] IA aplicada ao varejo aprovada como tema principal
-- [x] Direção visual aprovada — Transformação
-- [ ] Protótipo das três páginas criado
-- [ ] Testes em navegador concluídos
-- [x] Repositório remoto criado
-- [ ] GitHub Pages publicado e verificado
-- [x] Identificação completa da equipe adicionada
+| Integrante | RA | E-mail |
+|---|---|---|
+| Ana Clara S. F. Gomes | 1292416927 | anaclaragomes.job@gmail.com |
+| Iago F. Tubiana | 12924110288 | iagoftubiana@gmail.com |
+| João Vitor Rosiak | 1292417550 | contato.rosiak@gmail.com |
+| Mariana F. Hammel | 12924113001 | hammel2006@gmail.com |
 
 ## Documentação
 
 - [Briefing e plano](docs/BRIEFING_E_PLANO.md)
-- [Conceito proposto](docs/CONCEITO_JAM.md)
+- [Conceito do GiroCerto](docs/CONCEITO_GIROCERTO.md)
+- [Pesquisa de mercado e benchmarks](docs/PESQUISA_E_BENCHMARKS.md)
+- [Especificação do motor de decisão](docs/ESPECIFICACAO_DECISAO.md)
 - [Direção visual aprovada](docs/DIRECAO_VISUAL.md)
-- [Decisões e aprovações](docs/DECISOES.md)
-- [Equipe e responsabilidades](docs/EQUIPE.md)
-- [Checklist de entrega](docs/ENTREGA.md)
-- [Instruções para agentes](AGENTS.md)
+- [Equipe](docs/EQUIPE.md)
 
-## Desenvolvimento
+## Execução
 
-A implementação será mantida simples para cumprir a exigência de uma única aplicação HTML. O arquivo principal será `index.html`, acompanhado apenas dos recursos estritamente necessários e aprovados pelo grupo.
+O protótipo está concentrado em `index.html` e não exige instalação, backend ou dependências externas. Para conferir localmente, basta abrir o arquivo em um navegador moderno.
 
 O escopo segue MoSCoW: todos os itens **Must** são concluídos antes de itens **Should** ou **Could**.
-
-## Links da entrega
-
-- Repositório: https://github.com/anaclaraSFG/jam-appjam-2026
-- Aplicação no GitHub Pages: pendente
